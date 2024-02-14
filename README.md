@@ -1,4 +1,12 @@
-# Hello, there 
+# Hello, there 🤖
+
+---
+
+<p align="center">
+  <img src="https://github.com/farazokc/farazokc/assets/101589782/3b56ef33-0173-4f78-9aa6-0423af36ac68"/>
+</p>
+
+---
 
 - 🔭 I’m currently a student studying Software Engineering
 - 🌱 I work on MERN stack and am learning DS
