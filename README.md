@@ -8,14 +8,15 @@
 
 ---
 
-- 🔭 I’m currently a student studying Software Engineering
-- 🌱 I work on MERN stack and am learning DS
+- Currently working on Angular v18 + .NET 6.0
+- Done my Bachelor's in Software Engineering
+- Exploring and continuously learning new technologies.
 
 ## Technologies I've used:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,java,html,css,bootstrap,react,redux,sass,tailwind,materialui,nextjs,vite,nodejs,express,mongodb,mysql,sqlite,firebase,jest,selenium,aws,discord,git,github,linux,postman,stackoverflow,vscode,visualstudio,eclipse&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,java,html,css,bootstrap,react,angular,tailwind,materialui,vite,nodejs,express,cs,mongodb,mysql,sqlite,firebase,jest,aws,azure,discord,git,github,powershell,linux,postman,stackoverflow,vscode,visualstudio,eclipse&theme=dark&perline=10" />
   </a>
 </p>
 
